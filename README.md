@@ -31,3 +31,11 @@ López Cruz Erick&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 
 Erick Chávez Urbano           <span style="display:inline-block; width: 150px;"></span> colaborador
 
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="border: none;">Erick Chávez Urbano</td>
+    <td style="border: none; padding-left: 100px;">colaborador</td>
+  </tr>
+</table>
+
+
