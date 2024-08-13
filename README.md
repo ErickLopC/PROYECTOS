@@ -15,7 +15,8 @@ Nivel de Desarrollo: Investigación
 
 Participantes:
 
-Erick Chávez Urbano              colaborador
+Erick Chávez Urbano&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;colaborador
+
 
 Jiménez Martínez Diego           colaborador
 
