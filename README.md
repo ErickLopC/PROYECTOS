@@ -1,14 +1,15 @@
 # PROYECTOS
 
+---
+
+---
+
+
+---
 
 ## Nombre **TerraGreen: Desarrollo de ambientes controlados**
 
----
 
----
-
-
----
 
 
 En este proyecto se realiza la evaluación de TerraGreen: Desarrollo de ambientes controlados mediante la implementación de cámaras climáticas reduciendo el campo a ventas en Huajuapan de León así como ventas por internet.
