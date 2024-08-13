@@ -75,7 +75,6 @@ Nivel de Desarrollo: Investigación, simulación e implementación
 
 | Nombre                                  | Rol         |
 |-----------------------------------------|-------------|
-
 |Luis Cosme José Francisco          | Colaborador en área de PLC|
 |Gomez Diaz David      |Colaborador en área de PLC y diseño de prototipo|
 |Gallegos Álvarez Jovani      |Colaborador en área interfaz HMI|
