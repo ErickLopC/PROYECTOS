@@ -15,8 +15,12 @@ Nivel de Desarrollo: Investigación
 
 Participantes:
 
-Erick Chávez Urbano           colaborador
-Jiménez Martínez Diego
-Niño Galindo Pamela Esmeralda
-Osorio de los Ángeles Tomás
-López Cruz Erick
+Erick Chávez Urbano              colaborador
+
+Jiménez Martínez Diego           colaborador
+
+Niño Galindo Pamela Esmeralda    colaborador
+ 
+Osorio de los Ángeles Tomás      colaborador
+
+López Cruz Erick                 colaborador
