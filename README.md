@@ -29,9 +29,11 @@ Nivel de Desarrollo: Investigación
 | López Cruz Erick                        | Colaborador |
 
 
-## Nombre 
+## Nombre  ENTREGA FINAL  Diseño de una excavadora para cultivos en huertas
 
 [LINK DEL PROYECTO](https://drive.google.com/file/d/1cPDh4uy8YpbTmI8Kl_ffilPy6Lt7HlvX/view?usp=sharing)
+
+Se realiza la investigación para la implementación e una excavadora el cultivo en huertas se realiza la investigación en cada una de las áreas para realizar los cálculos necesarios para posteriormente realizar el diseño y proceder a simular el prototipo virtual.
 
 Nivel de Desarrollo: Investigación, simulación
 
