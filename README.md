@@ -29,3 +29,22 @@ Nivel de Desarrollo: Investigación
 | López Cruz Erick                        | Colaborador |
 
 
+## Nombre 
+
+[LINK DEL PROYECTO](https://drive.google.com/file/d/1cPDh4uy8YpbTmI8Kl_ffilPy6Lt7HlvX/view?usp=sharing)
+
+Nivel de Desarrollo: Investigación, simulación
+
+| Nombre                                  | Rol         |
+|-----------------------------------------|-------------|
+| Erick López Cruz                        | Colaborador en área de control y simulación |
+| Jiménez Martínez Diego                  | Colaborador en área de mecánica |
+
+
+
+
+
+
+
+
+
