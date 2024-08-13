@@ -17,6 +17,9 @@ Participantes:
 
 Erick Chávez Urbano&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;colaborador
 
+| Erick Chávez Urbano |                         colaborador |
+|---------------------|-------------------------------------|
+
 
 Jiménez Martínez Diego&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;colaborador
 
