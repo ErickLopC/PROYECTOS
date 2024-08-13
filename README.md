@@ -42,6 +42,7 @@ Nivel de Desarrollo: Investigación, simulación
 |-----------------------------------------|-------------|
 | Erick López Cruz                        | Colaborador en área de control y simulación |
 | Marcos Aurelio Ortiz Ojeda               | Colaborador en área de mecánica |
+|Carlos Andres Contreras Rodriguez         |Colaborar en área de electrónica|
 
 
 
