@@ -66,6 +66,20 @@ Nivel de Desarrollo: Investigación, simulación e implementación
 ---
 
 
+## Nombre   DESARROLLO DE UN SISTEMA SCADA PARA UN INVERNADERO
+
+
+[LINK DEL PROYECTO](https://drive.google.com/file/d/1IWx1uug2jpLCYcbQHLIxPNc7Dbh7oqAw/view?usp=sharing)
+
+En este proyecto se realizó la implementación de un sistema tipo cartesiano para que se moviera un espacio para recorrer una planta de tomate y detectar si el producto tiene un grado de madurez alto, medio o no lo esta para ello primero se realizó la investigación, simulación, pruebas y validación del prototipo.
+
+Nivel de Desarrollo: Investigación, simulación e implementación
+
+| Nombre                                  | Rol         |
+|-----------------------------------------|-------------|
+| Erick López Cruz                        | Colaborador en área de control y simulación |
+| Marcos Aurelio Ortiz Ojeda               | Colaborador en área de mecánica |
+|Jorge Gustavo Senties Rodriguez      |Colaborar en área de electrónica|
 
 
 
