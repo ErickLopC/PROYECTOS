@@ -48,8 +48,7 @@ Nivel de Desarrollo: Investigación, simulación
 
 
 
-## Nombre   DESARROLLO DE UN SISTEMA DE MONITOREO PARA MEDIR LA MADUREZ DEL TOMATE EN INVERNADEROS
-
+## Nombre   Desarrollo de un sistema de monitoreo para mediz la maduurez del tomate en invernaderos.    
 
 [LINK DEL PROYECTO](https://drive.google.com/file/d/1IWx1uug2jpLCYcbQHLIxPNc7Dbh7oqAw/view?usp=sharing)
 
@@ -66,20 +65,20 @@ Nivel de Desarrollo: Investigación, simulación e implementación
 ---
 
 
-## Nombre   DESARROLLO DE UN SISTEMA SCADA PARA UN INVERNADERO
+## Nombre   Desarrollo de un sistema SCADA para un invernadero
 
+[LINK DEL PROYECTO](Por subir)
 
-[LINK DEL PROYECTO](https://drive.google.com/file/d/1IWx1uug2jpLCYcbQHLIxPNc7Dbh7oqAw/view?usp=sharing)
-
-En este proyecto se realizó la implementación de un sistema tipo cartesiano para que se moviera un espacio para recorrer una planta de tomate y detectar si el producto tiene un grado de madurez alto, medio o no lo esta para ello primero se realizó la investigación, simulación, pruebas y validación del prototipo.
+En este proyecto se realizó la implementación de un sistema SCADA el cual se encarga de monitorear las variables de temperatura, humedad, luminosidad para realizar los reportes y avisos de emergencia desde la pantalla del sistema SCADA, de igual manera se implementó una HMI.
 
 Nivel de Desarrollo: Investigación, simulación e implementación
 
 | Nombre                                  | Rol         |
 |-----------------------------------------|-------------|
-| Erick López Cruz                        | Colaborador en área de control y simulación |
-| Marcos Aurelio Ortiz Ojeda               | Colaborador en área de mecánica |
-|Jorge Gustavo Senties Rodriguez      |Colaborar en área de electrónica|
 
-
-
+|Luis Cosme José Francisco          | Colaborador en área de PLC|
+|Gomez Diaz David      |Colaborador en área de PLC y diseño de prototipo|
+|Gallegos Álvarez Jovani      |Colaborador en área interfaz HMI|
+|Martinez Niño Vanessa Quiryat   |Colaborador en área de interfaz HMI |
+|Martínez Cervantes Noé | Colaborador en  área del clustering|
+| Erick López Cruz  | Colaborador en  área del clustering|
