@@ -17,10 +17,7 @@ Participantes:
 
 Erick Chávez Urbano&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;colaborador
 
-| Erick Chávez Urbano |                         colaborador |
-
-
-Jiménez Martínez Diego <!--         --> colaborador
+Jiménez Martínez Diego;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;colaborador
 
 Niño Galindo Pamela Esmeralda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;colaborador
  
@@ -29,13 +26,5 @@ Osorio de los Ángeles Tomás&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 López Cruz Erick&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;colaborador
 
 
-Erick Chávez Urbano           <span style="display:inline-block; width: 150px;"></span> colaborador
-
-<table style="border-collapse: collapse;">
-  <tr>
-    <td style="border: none;">Erick Chávez Urbano</td>
-    <td style="border: none; padding-left: 100px;">colaborador</td>
-  </tr>
-</table>
 
 
