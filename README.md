@@ -41,7 +41,7 @@ Nivel de Desarrollo: Investigación, simulación
 | Nombre                                  | Rol         |
 |-----------------------------------------|-------------|
 | Erick López Cruz                        | Colaborador en área de control y simulación |
-| Jiménez Martínez Diego                  | Colaborador en área de mecánica |
+| Marcos Aurelio Ortiz Ojeda               | Colaborador en área de mecánica |
 
 
 
