@@ -20,7 +20,7 @@ Erick Chávez Urbano&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 | Erick Chávez Urbano |                         colaborador |
 
 
-Jiménez Martínez Diego <!--      -->colaborador
+Jiménez Martínez Diego <!--         --> colaborador
 
 Niño Galindo Pamela Esmeralda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;colaborador
  
