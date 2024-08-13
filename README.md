@@ -7,7 +7,7 @@
 
 ---
 
-## Nombre **TerraGreen: Desarrollo de ambientes controlados**
+## Nombre: **TerraGreen: Desarrollo de ambientes controlados**
 
 
 
@@ -30,7 +30,7 @@ Nivel de Desarrollo: Investigación
 
 ---
 
-## Nombre   Diseño de una excavadora para cultivos en huertas
+## Nombre:   Diseño de una excavadora para cultivos en huertas
 
 [LINK DEL PROYECTO](https://drive.google.com/file/d/1cPDh4uy8YpbTmI8Kl_ffilPy6Lt7HlvX/view?usp=sharing)
 
@@ -48,7 +48,7 @@ Nivel de Desarrollo: Investigación, simulación
 
 
 
-## Nombre   Desarrollo de un sistema de monitoreo para mediz la maduurez del tomate en invernaderos.    
+## Nombre:   Desarrollo de un sistema de monitoreo para mediz la maduurez del tomate en invernaderos.    
 
 [LINK DEL PROYECTO](https://drive.google.com/file/d/1IWx1uug2jpLCYcbQHLIxPNc7Dbh7oqAw/view?usp=sharing)
 
@@ -65,7 +65,7 @@ Nivel de Desarrollo: Investigación, simulación e implementación
 ---
 
 
-## Nombre   Desarrollo de un sistema SCADA para un invernadero
+## Nombre:   Desarrollo de un sistema SCADA para un invernadero
 
 [LINK DEL PROYECTO](Por subir)
 
