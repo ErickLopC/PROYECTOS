@@ -44,9 +44,23 @@ Nivel de Desarrollo: Investigación, simulación
 | Marcos Aurelio Ortiz Ojeda               | Colaborador en área de mecánica |
 |Carlos Andres Contreras Rodriguez         |Colaborar en área de electrónica|
 
+---
 
 
 
+## Nombre   Diseño de una excavadora para cultivos en huertas
+
+[LINK DEL PROYECTO](https://drive.google.com/file/d/1cPDh4uy8YpbTmI8Kl_ffilPy6Lt7HlvX/view?usp=sharing)
+
+Nivel de Desarrollo: Investigación, simulación e implementación
+
+| Nombre                                  | Rol         |
+|-----------------------------------------|-------------|
+| Erick López Cruz                        | Colaborador en área de control y simulación |
+| Marcos Aurelio Ortiz Ojeda               | Colaborador en área de mecánica |
+|Carlos Andres Contreras Rodriguez         |Colaborar en área de electrónica|
+
+---
 
 
 
