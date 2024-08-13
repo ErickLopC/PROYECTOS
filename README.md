@@ -28,8 +28,9 @@ Nivel de Desarrollo: Investigación
 | Osorio de los Ángeles Tomás             | Colaborador |
 | López Cruz Erick                        | Colaborador |
 
+---
 
-## Nombre  ENTREGA FINAL  Diseño de una excavadora para cultivos en huertas
+## Nombre   Diseño de una excavadora para cultivos en huertas
 
 [LINK DEL PROYECTO](https://drive.google.com/file/d/1cPDh4uy8YpbTmI8Kl_ffilPy6Lt7HlvX/view?usp=sharing)
 
