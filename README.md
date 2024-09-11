@@ -48,7 +48,7 @@ Nivel de Desarrollo: Investigación, simulación
 
 
 
-## Nombre:   Desarrollo de un sistema de monitoreo para mediz la maduurez del tomate en invernaderos.    
+## Nombre:   Desarrollo de un sistema de monitoreo para medir la madurez del tomate en invernaderos.    
 
 [LINK DEL PROYECTO](https://drive.google.com/file/d/1IWx1uug2jpLCYcbQHLIxPNc7Dbh7oqAw/view?usp=sharing)
 
