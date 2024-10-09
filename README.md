@@ -81,3 +81,21 @@ Nivel de Desarrollo: Investigación, simulación e implementación
 |Martinez Niño Vanessa Quiryat   |Colaborador en área de interfaz HMI |
 |Martínez Cervantes Noé | Colaborador en  área del clustering|
 | Erick López Cruz  | Colaborador en  área del clustering|
+
+---
+## Nombre:   Desarrollo de un robot omnidireccional
+
+[LINK DEL PROYECTO](Por subir)
+
+En este proyecto se realizó 
+
+| Nombre                                  | Rol         |
+|-----------------------------------------|-------------|
+|---          | Colaborador|
+|---    |Colaborador |
+
+[LINK DEL PROYECTO](https://github.com/ErickLopC/ROBOTICA)  V1.0
+---
+
+
+
